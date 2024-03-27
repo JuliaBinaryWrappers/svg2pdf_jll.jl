@@ -1,0 +1,135 @@
+[[svg2pdf]]
+arch = "aarch64"
+git-tree-sha1 = "937e13b769ea94d57651e7972365a7ed94aa5203"
+os = "macos"
+
+    [[svg2pdf.download]]
+    sha256 = "e632c04750fe0dbd20126e43888b5e959af40e46ff46807b1c6a123cdb8be112"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.aarch64-apple-darwin.tar.gz"
+[[svg2pdf]]
+arch = "aarch64"
+git-tree-sha1 = "d987a07f42bc66cc7dc4f76a7d99bb0809964412"
+libc = "glibc"
+os = "linux"
+
+    [[svg2pdf.download]]
+    sha256 = "f29a9faf0c5a2e72f2f5674565b673cefb22e7b7bfe0f362010b6b4db368de03"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.aarch64-linux-gnu.tar.gz"
+[[svg2pdf]]
+arch = "aarch64"
+git-tree-sha1 = "cfe1ecb0ec3062811ca63e143428dd98d1abf040"
+libc = "musl"
+os = "linux"
+
+    [[svg2pdf.download]]
+    sha256 = "cdb03d230fabd1a9ae040cf9e0934fad148429d19495350603cd1765bcc2adc7"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.aarch64-linux-musl.tar.gz"
+[[svg2pdf]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0c484c220c39904fea9d165bc0de462e8b49f32c"
+libc = "glibc"
+os = "linux"
+
+    [[svg2pdf.download]]
+    sha256 = "baddbb85c9f79aef49be4df58f8f42ab3d974c9c5d983431854981ca29743dc4"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.armv6l-linux-gnueabihf.tar.gz"
+[[svg2pdf]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "335dbbaef95faf3faeffb1840a59983988f4323b"
+libc = "musl"
+os = "linux"
+
+    [[svg2pdf.download]]
+    sha256 = "67f6b7e9eda4c6b680965bea7f5755e55dd4202a1bf3a8c952f33a988e97d3c5"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.armv6l-linux-musleabihf.tar.gz"
+[[svg2pdf]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "41f658affdb7ab68dafbd2d2ac352f4daeb4784d"
+libc = "glibc"
+os = "linux"
+
+    [[svg2pdf.download]]
+    sha256 = "d7248933315dbf66e031d0af4eddbfc2e9ccf6a2ea905f2b877d384988c9007e"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.armv7l-linux-gnueabihf.tar.gz"
+[[svg2pdf]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a0ef5d2aa9c9944406b8bb68fbc49e18fd1331a4"
+libc = "musl"
+os = "linux"
+
+    [[svg2pdf.download]]
+    sha256 = "fa0521554d09a71e410ce93b4434300d647f5f2585307f103dafc558eda93ff9"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.armv7l-linux-musleabihf.tar.gz"
+[[svg2pdf]]
+arch = "i686"
+git-tree-sha1 = "76db4f1610df39975871ddfdc39b56fb890c7b21"
+libc = "glibc"
+os = "linux"
+
+    [[svg2pdf.download]]
+    sha256 = "6d02dac1e9c0885d044526048a7a01af2cf4f24c1cea6c424e3c018e66457fd1"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.i686-linux-gnu.tar.gz"
+[[svg2pdf]]
+arch = "i686"
+git-tree-sha1 = "ffa6206cc227e6be6488f74f6268896fb41f25fb"
+libc = "musl"
+os = "linux"
+
+    [[svg2pdf.download]]
+    sha256 = "561e29c46114c7e2cb4427b5cf6de26f0541d516b4919dd06c6392a5e1ac158d"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.i686-linux-musl.tar.gz"
+[[svg2pdf]]
+arch = "powerpc64le"
+git-tree-sha1 = "97476f8972eb46c21918368c95f778c5fa235dfb"
+libc = "glibc"
+os = "linux"
+
+    [[svg2pdf.download]]
+    sha256 = "9f9aef7b6ddd337ca03f86c4c2d9d7296753336f6d6396290d5958ebed509cbd"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.powerpc64le-linux-gnu.tar.gz"
+[[svg2pdf]]
+arch = "x86_64"
+git-tree-sha1 = "e8b2b5f282ffae6dbe09c879b0cd46ab9150ac70"
+os = "macos"
+
+    [[svg2pdf.download]]
+    sha256 = "11bc803c7e23ea8cd481ab3f7db71ff529dc0d4dffc5d9a13caec0fe2109f204"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.x86_64-apple-darwin.tar.gz"
+[[svg2pdf]]
+arch = "x86_64"
+git-tree-sha1 = "6129938b83d65b9f74e4864a6fd79c0acaec29cc"
+libc = "glibc"
+os = "linux"
+
+    [[svg2pdf.download]]
+    sha256 = "7a780cb107b3d3fcc9b38b7471b32dfd31cc642b07d688a4de1ce34714b9d5b7"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.x86_64-linux-gnu.tar.gz"
+[[svg2pdf]]
+arch = "x86_64"
+git-tree-sha1 = "0386d87632aa12788d8ed78c98d72e7015da2c24"
+libc = "musl"
+os = "linux"
+
+    [[svg2pdf.download]]
+    sha256 = "766a552d3b9126bed96bc74fdfcbf798317b63d7fcb5a6585c6a5b0a3098d1e5"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.x86_64-linux-musl.tar.gz"
+[[svg2pdf]]
+arch = "x86_64"
+git-tree-sha1 = "88e0bd0d2d4f6989def016e6b64f5f1d3faac194"
+os = "freebsd"
+
+    [[svg2pdf.download]]
+    sha256 = "c1965cb3057f116053fc94459769cc0e4b5d4e0a39c7d3f3dfa5705a22ae8ce2"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.x86_64-unknown-freebsd.tar.gz"
+[[svg2pdf]]
+arch = "x86_64"
+git-tree-sha1 = "a5c90ee2fb34bc21a236285f5d785491ba1be233"
+os = "windows"
+
+    [[svg2pdf.download]]
+    sha256 = "3bd08d816b75e9e17a44afc2e2c32c8822441017607d31d5b205cc9f5bc2cd1c"
+    url = "https://github.com/JuliaBinaryWrappers/svg2pdf_jll.jl/releases/download/svg2pdf-v0.10.0+0/svg2pdf.v0.10.0.x86_64-w64-mingw32.tar.gz"
